@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [文本生成评价](https://github.com/linzhk/linzhk.github.io/tree/master/%E5%8D%9A%E5%AE%A2/text evaluation.md) to maintain and preview the content for your website in Markdown files.
+You can use the [文本生成评价](https://github.com/linzhk/linzhk.github.io/tree/master/article/text_evaluation.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
